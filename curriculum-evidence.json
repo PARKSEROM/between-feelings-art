@@ -1,0 +1,78 @@
+[
+  {
+    "code": "[9미01-01]",
+    "schoolLevel": "middle",
+    "subjectKorean": "미술",
+    "domainKorean": "미적 체험",
+    "officialText": "감각을 활용하여 대상과 현상을 탐색하고 자신과 환경에 대한 감수성을 확장할 수 있다.",
+    "sourceRefs": [
+      "kr-moe-2022-33-annex13"
+    ],
+    "sourceLocator": {
+      "attachmentNo": "10003555",
+      "code": "[9미01-01]",
+      "pdfPage": 22,
+      "printedPage": null,
+      "section": "미술 > 미적 체험",
+      "sha256": "b47363c9a1060b00777c6de555d972b509b64b886d7beca89460a552a33c77b2",
+      "sourceId": "kr-moe-2022-33-annex13"
+    }
+  },
+  {
+    "code": "[9미01-02]",
+    "schoolLevel": "middle",
+    "subjectKorean": "미술",
+    "domainKorean": "미적 체험",
+    "officialText": "시각 문화의 의미와 역할을 알고 이미지를 비판적으로 해석할 수 있다.",
+    "sourceRefs": [
+      "kr-moe-2022-33-annex13"
+    ],
+    "sourceLocator": {
+      "attachmentNo": "10003555",
+      "code": "[9미01-02]",
+      "pdfPage": 22,
+      "printedPage": null,
+      "section": "미술 > 미적 체험",
+      "sha256": "b47363c9a1060b00777c6de555d972b509b64b886d7beca89460a552a33c77b2",
+      "sourceId": "kr-moe-2022-33-annex13"
+    }
+  },
+  {
+    "code": "[9미03-02]",
+    "schoolLevel": "middle",
+    "subjectKorean": "미술",
+    "domainKorean": "감상",
+    "officialText": "작품의 내용과 형식을 분석하고 미술 용어와 지식을 활용하여 설명할 수 있다.",
+    "sourceRefs": [
+      "kr-moe-2022-33-annex13"
+    ],
+    "sourceLocator": {
+      "attachmentNo": "10003555",
+      "code": "[9미03-02]",
+      "pdfPage": 24,
+      "printedPage": null,
+      "section": "미술 > 감상",
+      "sha256": "b47363c9a1060b00777c6de555d972b509b64b886d7beca89460a552a33c77b2",
+      "sourceId": "kr-moe-2022-33-annex13"
+    }
+  },
+  {
+    "code": "[9미03-03]",
+    "schoolLevel": "middle",
+    "subjectKorean": "미술",
+    "domainKorean": "감상",
+    "officialText": "다양한 감상 방법과 관점을 활용하여 작품을 해석할 수 있다.",
+    "sourceRefs": [
+      "kr-moe-2022-33-annex13"
+    ],
+    "sourceLocator": {
+      "attachmentNo": "10003555",
+      "code": "[9미03-03]",
+      "pdfPage": 24,
+      "printedPage": null,
+      "section": "미술 > 감상",
+      "sha256": "b47363c9a1060b00777c6de555d972b509b64b886d7beca89460a552a33c77b2",
+      "sourceId": "kr-moe-2022-33-annex13"
+    }
+  }
+]
